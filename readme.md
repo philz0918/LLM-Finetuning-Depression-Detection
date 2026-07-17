@@ -1,6 +1,6 @@
 # Beyond Positive or Negative: Detecting Mixed Emotions for Depressive Symptom Prediction with Finetuned RoBERTa and LoRA-Finetuned LLaMA
 
-This repository contains the code and data for **"Beyond Positive or Negative: How Mixed Emotions on Reddit Predict Depressive Symptoms in Asian American Families."** The project investigates whether mixed emotional expressions in Reddit posts can help predict depressive symptoms in the context of Asian American family experiences.
+This repository contains the code and data for **"Beyond Positive or Negative: How Mixed Emotions on Reddit Predict Depressive Symptoms in Asian American Families."** (find it here: https://workshop-proceedings.icwsm.org/abstract.php?id=2026_26) The project investigates whether mixed emotional expressions in Reddit posts can help predict depressive symptoms in the context of Asian American family experiences.
 
 Beyond the research question itself, this repo demonstrates an end-to-end **LLM finetuning pipeline** for a low-resource, domain-specific classification task — comparing a fully finetuned encoder model (RoBERTa) against a parameter-efficient, **LoRA-finetuned decoder LLM (LLaMA)**.
 
